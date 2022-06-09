@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "87372545175",
+    "project_id": "schoolie-dcccb",
+    "storage_bucket": "schoolie-dcccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87372545175:android:3df1a2cd8d38a979c93dd2",
+        "android_client_info": {
+          "package_name": "com.schooling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87372545175-80m6rnq0ikd6v8rtukp6focc134h5s1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.schooling",
+            "certificate_hash": "c256c47ee21b9c7656d1c47c71ca5d5b431d1331"
+          }
+        },
+        {
+          "client_id": "87372545175-jei5qrj6gltf2oe3pv9jvjb9amh5qjj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH4Tcy5yt6MkHt-QeQAqltjeFfrlFwgqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87372545175-jei5qrj6gltf2oe3pv9jvjb9amh5qjj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
